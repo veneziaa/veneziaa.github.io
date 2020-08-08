@@ -1,11 +1,11 @@
 # Site settings
 author: Venice Vargas
-title: 
+title: Why I Decided to Study Software Engineering  
 header-img: img/home-bg.png
 email: venicevargas1@live.com
 copyright_name: Venice Vargas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  veneziaa
